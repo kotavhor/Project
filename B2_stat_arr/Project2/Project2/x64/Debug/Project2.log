@@ -1,13 +1,13 @@
 ﻿  FileName.cpp
-D:\Project\Новая папка\Project2\Project2\FileName.cpp(116,22): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
-      D:\Project\Новая папка\Project2\Project2\FileName.cpp(116,22):
+D:\Project\B2_stat_arr\Project2\Project2\FileName.cpp(108,34): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+      D:\Project\B2_stat_arr\Project2\Project2\FileName.cpp(108,34):
       контекст создания экземпляра шаблона (сначала самый старый)
-          D:\Project\Новая папка\Project2\Project2\FileName.cpp(53,52):
+          D:\Project\B2_stat_arr\Project2\Project2\FileName.cpp(50,79):
           выполняется компиляция ссылки на экземпляр шаблон функции "T SumZerosElemnts<double>(T *,int32_t)"
           with
           [
               T=double
           ]
   
-D:\Project\Новая папка\Project2\Project2\FileName.cpp(120,23): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
-  Project2.vcxproj -> D:\Project\Новая папка\Project2\x64\Debug\Project2.exe
+D:\Project\B2_stat_arr\Project2\Project2\FileName.cpp(111,35): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  Project2.vcxproj -> D:\Project\B2_stat_arr\Project2\x64\Debug\Project2.exe

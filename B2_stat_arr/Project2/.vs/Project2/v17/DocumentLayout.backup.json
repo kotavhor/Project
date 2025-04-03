@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Project2\\",
+  "WorkspaceRootPath": "D:\\Project\\B2_stat_arr\\Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{069FAD5D-38C7-4DDD-A662-FC4099E25807}|Project2\\Project2.vcxproj|D:\\Project\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Project2\\Project2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{069FAD5D-38C7-4DDD-A662-FC4099E25807}|Project2\\Project2.vcxproj|D:\\Project\\B2_stat_arr\\Project2\\Project2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{069FAD5D-38C7-4DDD-A662-FC4099E25807}|Project2\\Project2.vcxproj|solutionrelative:Project2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
-              "DocumentMoniker": "D:\\Project\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Project2\\Project2\\FileName.cpp",
+              "DocumentMoniker": "D:\\Project\\B2_stat_arr\\Project2\\Project2\\FileName.cpp",
               "RelativeDocumentMoniker": "Project2\\FileName.cpp",
-              "ToolTip": "D:\\Project\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Project2\\Project2\\FileName.cpp",
+              "ToolTip": "D:\\Project\\B2_stat_arr\\Project2\\Project2\\FileName.cpp",
               "RelativeToolTip": "Project2\\FileName.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-03T16:54:00.89Z",
               "EditorCaption": ""
