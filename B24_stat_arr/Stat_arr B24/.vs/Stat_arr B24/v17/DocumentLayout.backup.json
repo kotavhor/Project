@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\B24_stat_arr\\Stat_arr B24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F62FB4-2E4D-4D02-9349-DF8E0D4D3FA4}|Stat_arr B24\\Stat_arr B24.vcxproj|D:\\Project\\B24_stat_arr\\Stat_arr B24\\Stat_arr B24\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7F62FB4-2E4D-4D02-9349-DF8E0D4D3FA4}|Stat_arr B24\\Stat_arr B24.vcxproj|solutionrelative:Stat_arr B24\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\Project\\B24_stat_arr\\Stat_arr B24\\Stat_arr B24\\FileName.cpp",
+              "RelativeDocumentMoniker": "Stat_arr B24\\FileName.cpp",
+              "ToolTip": "D:\\Project\\B24_stat_arr\\Stat_arr B24\\Stat_arr B24\\FileName.cpp",
+              "RelativeToolTip": "Stat_arr B24\\FileName.cpp",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAswK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T13:13:47.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
